@@ -1,12 +1,9 @@
 html,
 body {
-  height: 100%;
-}
-body {
-  text-align: center;
-}
-.button{
+  .button{
   background-color: white;
   color: black;
   border: 2px solid #4CAF50; /* Green */
+  height: 100%;
+  text-align: center;
 }
