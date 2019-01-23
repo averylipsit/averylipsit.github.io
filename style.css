@@ -14,6 +14,7 @@ button {
 a {
   background: #4b636e;
   color: #fff;
+  text-transform: uppercase;
   text-decoration: none;
   
 }
