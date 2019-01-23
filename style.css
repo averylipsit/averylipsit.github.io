@@ -1,5 +1,5 @@
 html 
-body {
+body, div{
   background: #607d8b;
   height: 100%;
   text-align: center;
