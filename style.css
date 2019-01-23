@@ -2,3 +2,6 @@ html, body {
   height: 100%;
   text-align: center;
 }
+button {
+ background: #1AAB8A; 
+}
