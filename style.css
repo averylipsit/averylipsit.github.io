@@ -1,9 +1,10 @@
 html 
 body {
+  background: #78909c;
   height: 100%;
   text-align: center;
 }
 button {
- background: #613493; 
- color: #0CD3B6;
+ background: #4b636e; 
+ color: #a7c0cd;
 }
