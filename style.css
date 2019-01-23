@@ -1,23 +1,25 @@
 html 
 body {
-  background: #78909c;
+  background: #607d8b;
   height: 100%;
   text-align: center;
 }
 h1 {
- color: #000000 
+ background: #8eacbb;
+ color: #000000;
 }
 button {
  background: #4b636e; 
  color: #fff;
 }
 a {
-  background: #4b636e;
+  background: #34515e;
   color: #fff;
   text-transform: uppercase;
   text-decoration: none;
   justify-content: center;
   align-items: center;
   height: 100vh;
+  text-shadow: 2px 2px 
   
 }
