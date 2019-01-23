@@ -1,9 +1,6 @@
 html 
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+
 }
 h1 {
  color: #000000 
@@ -17,5 +14,8 @@ a {
   color: #fff;
   text-transform: uppercase;
   text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
   
 }
