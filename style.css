@@ -1,4 +1,8 @@
 html 
+header {
+  h1 {
+    color: #a7c0cd
+}
 body {
   background: #78909c;
   height: 100%;
