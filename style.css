@@ -1,6 +1,6 @@
 html
-#PageTitle {
-   height:800px;
+div#PageTitle {
+   height:300px;
    font-size:14pt;
    background: #607d8b;
 }
