@@ -1,7 +1,8 @@
 html
 #PageTitle {
+   height:200px;
+   font-size:14pt;
    background: #607d8b;
-   box-sizing: border-box;
 }
 body {
   background: #607d8b;
