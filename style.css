@@ -3,13 +3,13 @@ div#PageTitle {
    height:300px;
    font-size:14pt;
    background: #607d8b;
-   display: inline-block;
+   display: inline;
 }
 #WorkExperience {
-  display: inline-block;
+  display: inline;
 }
 #About {
-  display: inline-block;
+  display: inline;
 }
 body {
   background: #607d8b;
