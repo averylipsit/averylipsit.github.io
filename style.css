@@ -11,11 +11,6 @@ div#PageTitle {
 #About {
   display: inline;
 }
-body {
-  background: #607d8b;
-  height: 100%;
-  text-align: center;
-}
 h1 {
  background: #8eacbb;
  color: #000000;
