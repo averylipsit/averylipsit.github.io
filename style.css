@@ -1,4 +1,9 @@
 html
+body {
+  background: #607d8b;
+  height: 100%;
+  text-align: center;
+}
 div#PageTitle {
    height:300px;
    font-size:14pt;
